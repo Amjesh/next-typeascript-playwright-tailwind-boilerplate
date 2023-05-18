@@ -1,0 +1,40 @@
+{
+    "beforeLogin": [
+        {
+            "label": "Login",
+            "value": "signin"
+        }
+    ],
+    "afterLogin": [
+        {
+            "label": "Tools",
+            "value": "tools"
+        },
+        {
+            "label": "History",
+            "value": "history"
+        },
+        {
+            "label": "Settings",
+            "value": "settings"
+        },
+        {
+            "label": "Get unlimited uses",
+            "value": "payment"
+        }
+    ],
+    "afterPayment": [
+        {
+            "label": "Tools",
+            "value": "tools"
+        },
+        {
+            "label": "History",
+            "value": "history"
+        },
+        {
+            "label": "Settings",
+            "value": "settings"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+  "NAME": "Careermocha",
+  "TITLE": "Careermocha",
+  "DESCRIPTION": "AI powered tools for jobseekers",
+  "SUB_TITLE": "Land your dream job with personal guidance using our AI-powered tool box",
+  "SIGN_IN_PAGE": {
+    "SOCIAL_LOGIN_HEADING": "Create an account or sign in.",
+    "CONFIRMATION_TEXT": "Please check your email for the confirmation code."
+  },
+  "SIGN_IN_FORM": {
+    "EMAIL_PLACEHOLDER": "Enter email",
+    "LOGIN_BUTTON": "Login",
+    "LOADING": "Sending..."
+  },
+  "OTP_FORM": {
+    "OTP_PLACEHOLDER": "Enter confirmation code",
+    "OTP_VERIFYING": "Verifying...",
+    "SUBMIT_BUTTON": "Verify",
+    "RESEND_BUTTON": "Resend otp"
+  },
+  "HOME": {
+    "TITLE": "Welcome to Careermocha",
+    "TRAIL_INFO_CARD_TITLE_BEFORE_LOGIN": "Save time and stand out to recruiters with personalised cover letters and CVs created using our AI-powered assistant",
+    "TRAIL_INFO_CARD_TITLE_AFTER_LOGIN": "You are on a trial membership of Careermocha with {remaining} tool uses remaining",
+    "TRAIL_INFO_CARD_BUTTON_LABEL_BEFORE_LOGIN": "Log in to get started",
+    "TRAIL_INFO_CARD_BUTTON_LABEL_AFTER_LOGIN": "Get unlimited uses",
+    "TRAIL_INFO_CARD_SUB_TITLE": "Select a tool to get started",
+    "TRAIL_INFO_CARD_SUB_TITLE_IF_TRAIL_END": "You have used all your free uses. Upgrade to go unlimited.",
+    "TRAIL_MODAL_TITLE": "0 uses remaining",
+    "TRAIL_MODAL_SUB_TITLE": "Your free trial has ended, upgrade to continue using CareerMocha",
+    "TRAIL_MODAL_CANCEL_BTN_TEXT": "Cancel",
+    "TRAIL_MODAL_SUCCESS_BTN_TEXT": "Upgrade",
+    "TRIAL_INFO_CARD_NO_USES_REMAINING": "You have used all your free uses. Upgrade to go unlimited."
+  },
+  "TOOLS": {
+    "TITLE": "AI powered tools for jobseekers",
+    "CV_UPLOAD_LATER_BTN": "Upload later",
+    "CV_UPLOAD_CONTINUE_BTN": "Continue",
+    "CV_UPLOAD_CARD_TITLE": "Upload your CV",
+    "CV_UPLOAD_CARD_SUB_TITLE": "Upload your CV to access Careermocha tools. You can switch to a different CV anytime with ease."
+  },
+  "ACTION_FORM": {
+    "BUTTON_LABEL": "Generate"
+  },
+  "SETTING": {
+    "TITLE": "Settings",
+    "EMAIL": "Account",
+    "EMAIL_TITLE": "Email",
+    "BUTTON_LOG_OUT": "Log Out",
+    "BUTTON_SAVE_CHANGES": "Save Changes",
+    "CV_OPTIONS": "CV options",
+    "PAY_OPTIONS": "Payment options",
+    "PAY_LABEL": "You are currently on a free trial of Careermocha."
+  },
+  "COPY_BTN_LABEL": "Copy to clipboard",
+  "BACK_BTN_LABEL": "Back",
+  "MORE_TOOL_BTN_LABEL": "More tools",
+  "COPIED_LABEL": "Copied to clipboard!",
+  "HISTORY": {
+    "TITLE": "History",
+    "RECORD_DOSE_NOT_EXIST": "Your history will appear here once you start using Careermocha."
+  },
+  "FEEDBACK": {
+    "THANK_TEXT": "Thank you!",
+    "SUBTITLE_TEXT": "Your feedback has been submitted and will help us make Careermocha better for everyone."
+  },
+  "DELETE_MODAL_TITLE": "Confirm Delete",
+  "DELETE_MODAL_SUB_TITLE": "Are you sure you want to delete?",
+  "DELETE_MODAL_CANCEL_BTN_TEXT": "Cancel",
+  "DELETE_MODAL_SUCCESS_BTN_TEXT": "Delete",
+  "COOKIES_MSG": "This website uses cookies to enhance the user experience",
+  "COOKIES_READE_MORE": "For more details read our {cookie_policy}",
+  "COOKIES_BTN_TEXT": "Sure!"
+}
